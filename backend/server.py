@@ -5,7 +5,6 @@ Features:
 - Gadgets API (list with filters, detail, categories, brands)
 - Wishlist API (auth required)
 - Compare endpoint (batch fetch by IDs)
-- Seeds gadget catalog + admin user on startup
 """
 from dotenv import load_dotenv
 from pathlib import Path
